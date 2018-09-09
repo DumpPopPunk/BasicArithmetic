@@ -1,6 +1,4 @@
-/* This turned into something a little more than just basic arithmetic lol
-but its just your basic loops and shit. Nothing too bad!
- */
+// Test for github and basic java syntax
 
 import java.util.*;
 
@@ -16,7 +14,6 @@ public class Examples
         String choice;
         int result;
         String a;
-
 
         do
         {
